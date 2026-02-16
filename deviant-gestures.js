@@ -109,7 +109,6 @@ const IMAGE_LIBRARY = [
 "https://raw.githubusercontent.com/emergentplay/dg-private/main/images/106.jpg",
 "https://raw.githubusercontent.com/emergentplay/dg-private/main/images/107.jpg",
 "https://raw.githubusercontent.com/emergentplay/dg-private/main/images/108.jpg",
-"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/109.jpg",
 "https://raw.githubusercontent.com/emergentplay/dg-private/main/images/110.jpg",
 "https://raw.githubusercontent.com/emergentplay/dg-private/main/images/111.jpg",
 "https://raw.githubusercontent.com/emergentplay/dg-private/main/images/112.jpg",

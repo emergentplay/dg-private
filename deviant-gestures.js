@@ -188,6 +188,17 @@ const IMAGE_LIBRARY = [
 "https://raw.githubusercontent.com/emergentplay/dg-private/main/images/186.jpg",
 "https://raw.githubusercontent.com/emergentplay/dg-private/main/images/187.jpg",
 "https://raw.githubusercontent.com/emergentplay/dg-private/main/images/188.jpg",
+  "https://raw.githubusercontent.com/emergentplay/dg-private/main/images/89.jpg",
+"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/90.jpg",
+"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/91.jpg",
+"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/92.jpg",
+"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/93.jpg",
+"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/94.jpg",
+"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/95.jpg",
+"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/96.jpg",
+"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/97.jpg",
+"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/98.jpg",
+"https://raw.githubusercontent.com/emergentplay/dg-private/main/images/99.jpg",
 ];
 
 const COMPLETION_MESSAGES = [
